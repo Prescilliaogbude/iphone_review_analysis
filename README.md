@@ -39,3 +39,6 @@ The project employs the following methodology:
 4. **Feature Analysis:** Identify mentions of specific features in the reviews and analyze the sentiment associated with those mentions.
 5. **Topic Modeling:** Apply LDA or other topic modeling techniques to discover underlying themes and group reviews based on these themes.
 6. **Visualization:** Create visualizations to present the findings, such as sentiment distribution charts, feature satisfaction graphs, and word clouds for topics.
+
+git clone [https://github.com/prescilliaogbude/iphone-reviews-analysis.git](https://www.google.com/search?q=https://github.com/prescilliaogbude/iphone-reviews-analysis.git)
+   cd iphone-reviews-analysis
